@@ -1,0 +1,7 @@
+dotnet ef dbcontext scaffold "server=127.0.0.1;uid=root;pwd=root;database=girl" Pomelo.EntityFrameworkCore.mysql -o Models -f
+
+
+
+ dotnet ef migrations add ap
+
+dotnet ef database update

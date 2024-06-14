@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{1B53AC8C-8F84-4FAA-8A9C-58E2FD8FC54D}|GWeb">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Point PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Migrations/20240612132700_Add.cs">
+    <Files>
+      <File FileName="Migrations/girlContextModelSnapshot.cs" />
+      <File FileName="Migrations/20240612132700_Add.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Point" expanded="True">
+            <Node name="Point" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="library" expanded="True" />
+              <Node name="Mapper" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20240612132700_Add.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/imac/Desktop/point/pointApi/Point/Controllers/LoginController.cs" relfile="Controllers/LoginController.cs" line="86" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

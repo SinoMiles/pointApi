@@ -1,0 +1,5 @@
+D:\G\C#\GWeb\obj\Release\netcoreapp3.1\linux-x64\PubTmp\Out\appsettings.Development.json
+D:\G\C#\GWeb\obj\Release\netcoreapp3.1\linux-x64\PubTmp\Out\appsettings.json
+D:\G\C#\GWeb\obj\Release\netcoreapp3.1\linux-x64\PubTmp\Out\libman.json
+D:\G\C#\GWeb\obj\Release\netcoreapp3.1\linux-x64\PubTmp\Out\GWeb.pdb
+D:\G\C#\GWeb\obj\Release\netcoreapp3.1\linux-x64\PubTmp\Out\GWeb
